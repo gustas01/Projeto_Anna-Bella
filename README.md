@@ -12,5 +12,5 @@ Página inicial
 Área de campanhas publicitárias
 <img src="Imagens/print3.JPG">
 
-Para ir à aplicação, acesse 
+PPara ir à aplicação no GitHub Pages, acesse
 https://gustas01.github.io/Projeto_Anna-Bella/
